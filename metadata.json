@@ -1,0 +1,6 @@
+{
+  "name": "Friendly Eats",
+  "description": "Private dinners at restaurants hosted by top chefs all over the US.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
