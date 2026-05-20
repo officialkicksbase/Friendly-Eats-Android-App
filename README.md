@@ -3,6 +3,8 @@
 </div>
 
 # Run and deploy your AI Studio app
+## Goals are to move to ReactNative on MacOS for both iOS and Android compatibility, and code sharing.
+
 
 This contains everything you need to run your app locally.
 
